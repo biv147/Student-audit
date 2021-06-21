@@ -1,0 +1,89 @@
+{
+    "name": "Software Engineering",
+    "university": "605655053cae059dff8893d0",
+    "student": "60564e863cae059dff8893cf",
+    "plan": [
+        {
+            "semester": "Fall 2020",
+            "done": true,
+            "courses": [
+                {
+                    "name": "COMM1050",
+                    "grade": 70,
+                    "prerequisite": 
+                },
+                "ENGR1015",
+                "MATH1010",
+                "MATH1850",
+                "PHY1010"
+            ]
+        },
+        {
+            "courses": [
+                "CHEM1800",
+                "ENGR1200",
+                "ENGR1025",
+                "MATH1020",
+                "PHY1020",
+                "SSCI1470"
+            ]
+        },
+        {
+            "courses": [
+                "ELEE2110",
+                "ELEE2790",
+                "SOFE2710",
+                "SOFE2800",
+                "SOFE2850"
+            ]
+        },
+        {
+            "courses": [
+                "ELEE2450",
+                "SOFE2715",
+                "SOFE2720",
+                "STAT2800"
+            ]
+        },
+        {
+            "courses": [
+                "ELEE3450",
+                "SOFE3200",
+                "SOFE3650",
+                "SOFE3700",
+                "SOFE3770"
+            ]
+        },
+        {
+            "courses": [
+                "ENGR3360",
+                "SOFE3720",
+                "SOFE3850",
+                "SOFE3950",
+                "SOFE3980",
+                "SOFE3490"
+            ]
+        },
+        {
+            "courses": [
+                "ENGR4940",
+                "SOFE4590",
+                "SOFE4790",
+                "ENGR4760"
+            ]
+        },
+        {
+            "courses": [
+                "ENGR4941",
+                "ENGR4760",
+                "SOFE4840"
+            ]
+        }
+    ],
+    "electives": [
+        "SOFE4620",
+        "SOFE4630",
+        "SOFE4820",
+        "SOFE4640"
+    ]
+}

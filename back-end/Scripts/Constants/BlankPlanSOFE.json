@@ -1,0 +1,34 @@
+{
+    "name": "Software Engineering",
+    "university": "605655053cae059dff8893d0",
+    "description": "The university’s Software Engineering program focuses on the design of computer software and is exposed to software design for embedded systems, enterprise and mobile systems,  distributed systems, real-time control systems, multi-media, and man-machine interfaces. Courses including software design, user interface, advanced networks, design and analysis of algorithms, and software project management prepare graduates for successful careers in the software engineering field.",
+    "plan":[
+        {
+            "courses": ["COMM1050", "ENGR1015", "MATH1010", "MATH1850", "PHY1010"]
+        },
+        {
+            "courses": ["CHEM1800", "ENGR1200", "ENGR1025", "MATH1020", "PHY1020", "SSCI1470"]
+        },
+        {
+            "courses": ["ELEE2110", "ELEE2790", "SOFE2710", "SOFE2800", "SOFE2850"]
+        },
+        {
+            "courses": ["ELEE2450", "SOFE2715", "SOFE2720", "STAT2800"]
+        },
+        {
+            "courses": ["ELEE3450", "SOFE3200", "SOFE3650", "SOFE3700", "SOFE3770"]
+        },
+        {
+            "courses": ["ENGR3360", "SOFE3720", "SOFE3850", "SOFE3950", "SOFE3980", "SOFE3490"]
+        },
+        {
+            "courses": ["ENGR4940", "SOFE4590", "SOFE4790", "ENGR4760"]
+        },
+        {
+            "courses": ["ENGR4941", "ENGR4760", "SOFE4840"]
+        }
+    ],
+    "electives": [
+        "SOFE4620", "SOFE4630", "SOFE4820", "SOFE4640"
+    ]
+}

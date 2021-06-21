@@ -1,0 +1,30 @@
+[
+    {
+        "rating": 4,
+        "response": "Very interesting course that introduces web development fundamentals!",
+        "courseId": "SOFE2800",
+        "studentId": "60564e863cae059dff8893cf",
+        "dateAdded": ""
+    },
+    {
+        "rating": 2,
+        "response": "Didn't cover some of the more relevant courses",
+        "courseId": "SOFE2800",
+        "studentId": "6056ae98fccafd6c72c9a8ef",
+        "dateAdded": ""
+    },
+    {
+        "rating": 2,
+        "response": "Very theoretical; no practical content",
+        "courseId": "SOFE3950",
+        "studentId": "60564e863cae059dff8893cf",
+        "dateAdded": ""
+    },
+    {
+        "rating": 4,
+        "response": "Amazing course that covers the foundational material for microprocessors",
+        "courseId": "SOFE3950",
+        "studentId": "6056ae98fccafd6c72c9a8ef",
+        "dateAdded": ""
+    }
+]
